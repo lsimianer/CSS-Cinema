@@ -93,6 +93,18 @@ body {
 }
 
 
+@media screen and (max-width: 70em) {
+    #curtainRight{
+        height: 73vw;
+    }
+    #curtainLeft{
+        height: 73vw;
+    }
+    .onScreen{
+        padding-right: 28%;
+    }
+}
+
 @keyframes left {
     0% {
         left: 50%;
