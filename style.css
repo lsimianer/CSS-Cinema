@@ -31,9 +31,7 @@ body {
     z-index: 0;
 }
 
-#stage {
-    /* height: 25%;
-    width: 45vw; */
+#stage {    
     background-color: transparent;
     height: 100%;
     width: 100%;
